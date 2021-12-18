@@ -1,6 +1,6 @@
 {
   "name": "@zeref-cli-dev/utils",
-  "version": "1.0.2",
+  "version": "1.0.0",
   "description": "zeref-cli-dev utils",
   "author": "倚乐 <daichengchao.dcc@alibaba-inc.com>",
   "homepage": "",
@@ -19,5 +19,5 @@
   "scripts": {
     "test": "echo \"Run testing from utils\""
   },
-  "gitHead": "cae06ebab26b2192b08df51235d8833da7aef993"
+  "gitHead": "8d27a8e05f8265155d41841108f465a0da12cefe"
 }
