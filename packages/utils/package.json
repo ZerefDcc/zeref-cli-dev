@@ -18,5 +18,6 @@
   },
   "scripts": {
     "test": "echo \"Run testing from utils\""
-  }
+  },
+  "gitHead": "cae06ebab26b2192b08df51235d8833da7aef993"
 }
