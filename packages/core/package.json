@@ -1,6 +1,6 @@
 {
   "name": "@zeref-cli-dev/core",
-  "version": "1.0.6",
+  "version": "1.0.1",
   "description": "zeref-cli-dev core",
   "author": "倚乐 <daichengchao.dcc@alibaba-inc.com>",
   "homepage": "",
@@ -20,7 +20,7 @@
     "test": "echo \"Run testing from core\""
   },
   "dependencies": {
-    "@zeref-cli-dev/utils": "^1.0.6"
+    "@zeref-cli-dev/utils": "^1.0.1"
   },
   "gitHead": "af362884e7a87df15ac253d693b74d86697d5125"
 }
