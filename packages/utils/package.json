@@ -16,5 +16,8 @@
   "scripts": {
     "test": "echo \"Run testing from utils\""
   },
-  "gitHead": "f1224ba557f5eded07a0f0da92fbecb8e036d470"
+  "gitHead": "88960a433ddbe1b7bc387c6dd13a6afa8a60965b",
+  "publishConfig": {
+    "access": "public"
+  }
 }
