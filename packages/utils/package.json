@@ -13,11 +13,8 @@
   "files": [
     "lib"
   ],
-  "publishConfig": {
-    "registry": "https://registry.npm.alibaba-inc.com/"
-  },
   "scripts": {
     "test": "echo \"Run testing from utils\""
   },
-  "gitHead": "a2f4cfb05effe0b768928d5261c07cb87bd515e0"
+  "gitHead": "f1224ba557f5eded07a0f0da92fbecb8e036d470"
 }

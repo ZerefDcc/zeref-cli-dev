@@ -2,10 +2,5 @@
   "packages": [
     "packages/*"
   ],
-  "command": {
-    "publish": {
-      "registry": "https://registry.npmjs.org"
-    }
-  },
-  "version": "1.0.1"
+  "version": "0.0.0"
 }
