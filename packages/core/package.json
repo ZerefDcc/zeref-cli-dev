@@ -20,7 +20,7 @@
     "test": "echo \"Run testing from core\""
   },
   "dependencies": {
-    "@zeref-cli-dev/utils": "^1.0.1"
+    "@zeref-cli-dev/utils": "^1.0.2"
   },
   "gitHead": "cae06ebab26b2192b08df51235d8833da7aef993"
 }
